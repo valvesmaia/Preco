@@ -1,6 +1,6 @@
 # 💸 Projeto: Tabela de Preços Responsiva
 
-Este projeto apresenta uma interface responsiva de tabela de preços desenvolvida com **HTML**, **CSS**, ** JavaScript** e **Bootstrap**, ideal para exibir planos mensais e anuais com destaque visual.
+Este projeto apresenta uma interface responsiva de tabela de preços desenvolvida com **HTML**, **CSS**, **JavaScript** e **Bootstrap**, ideal para exibir planos mensais e anuais com destaque visual.
 
 ## 📱 Funcionalidades
 
